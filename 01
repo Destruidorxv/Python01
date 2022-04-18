@@ -1,0 +1,6 @@
+n = float(input('Quanto você tem na sua carteira?'))
+d = n / 3.27
+if d>100:
+ print('Você está rico, bro')
+ else:
+    print('Você está pobre, bro')
